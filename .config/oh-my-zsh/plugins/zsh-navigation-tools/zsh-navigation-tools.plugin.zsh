@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/zsh-navigation-tools/zsh-navigation-tools.plugin.zsh

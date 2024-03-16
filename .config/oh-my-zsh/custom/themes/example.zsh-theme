@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/custom/themes/example.zsh-theme

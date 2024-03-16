@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/marked2/marked2.plugin.zsh

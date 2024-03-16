@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/frontend-search/README.md

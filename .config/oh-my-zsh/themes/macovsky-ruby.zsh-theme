@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/themes/macovsky-ruby.zsh-theme

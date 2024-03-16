@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/microk8s/microk8s.plugin.zsh

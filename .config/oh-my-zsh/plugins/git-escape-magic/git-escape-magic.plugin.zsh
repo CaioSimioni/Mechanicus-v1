@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/git-escape-magic/git-escape-magic.plugin.zsh

@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/emotty/emotty_floral_set.zsh

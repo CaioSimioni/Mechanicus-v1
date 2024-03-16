@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/svn-fast-info/svn-fast-info.plugin.zsh

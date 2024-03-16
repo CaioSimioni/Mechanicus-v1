@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/iterm2/iterm2_shell_integration.zsh

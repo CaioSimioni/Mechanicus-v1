@@ -1,1 +1,0 @@
-/home/caiosimioni/.config/oh-my-zsh/plugins/dirhistory/README.md
