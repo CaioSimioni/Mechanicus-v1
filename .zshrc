@@ -117,3 +117,5 @@ alias zshcfg="nvim ~/dotfiles/.zshrc"
 alias mydots="cd ~/dotfiles"
 
 
+# Add asdf version management
+. /opt/asdf-vm/asdf.sh
