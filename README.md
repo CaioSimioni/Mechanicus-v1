@@ -64,5 +64,23 @@ Pacotes adicionais: vim nano sudo git curl wget os-prober neofetch
 
 Agora só clicar em instalar.  (Ufa!)
 
+## Primeiro contato com o Arch Linux e o Hyprland
+
+Quando entrar no sistema pela primeira vez, vamos nos conectar na Internet usando "nmcli" com `sudo nmcli dev wifi connect network-ssid password "network-password"`
+
+Atualizar o sistema: `sudo pacman -Syu`
+
+Vamos garantir que o Windows também está podendo ser utilizado. Para isso vamos usar o "os-prober" + "grub"
+`sudo os-prober`
+`sudo mkdir /mnt/win10`
+`sudo mount /dev/sda1 /mnt/win10` Lembrando que "/dev/sda1" é o boot do windows
+`sudo os-prober`
+`sudo grub-mkconfig -o /boot/grub/grub.cfg`
+`sudo vim /etc/default/grub` Vamos descomentar a seguinte linha:
+GRUB_DISABLE_OS_PROBER = false
+`grub-mkconfig -o /boot/grub/grub.cfg`
+`reboot`
+
+No boot agora é para aparecer a opção de iniciar com o Arch ou com o Windows
 
 
