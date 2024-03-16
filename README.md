@@ -92,4 +92,15 @@ GRUB_DISABLE_OS_PROBER = false
 
 No boot agora é para aparecer a opção de iniciar com o Arch ou com o Windows
 
+## Preparando o dotfiles
+
+Vamos clonar o repositório do github:
+
+`git clone https://www.github.com/CaioSimioni/dotfiles`
+
+`cd ~/dotfiles`
+
+Agora vamos usar o comando de instalação:
+
+`./install.sh`
 
