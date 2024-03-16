@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/common-aliases/common-aliases.plugin.zsh

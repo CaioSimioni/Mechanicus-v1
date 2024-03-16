@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/symfony2/symfony2.plugin.zsh

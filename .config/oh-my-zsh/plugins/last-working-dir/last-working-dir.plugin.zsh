@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/last-working-dir/last-working-dir.plugin.zsh

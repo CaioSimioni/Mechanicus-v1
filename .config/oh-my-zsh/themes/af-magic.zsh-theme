@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/themes/af-magic.zsh-theme

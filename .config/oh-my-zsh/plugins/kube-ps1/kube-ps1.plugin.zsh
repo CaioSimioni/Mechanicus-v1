@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/kube-ps1/kube-ps1.plugin.zsh

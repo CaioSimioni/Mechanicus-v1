@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/history-substring-search/history-substring-search.plugin.zsh

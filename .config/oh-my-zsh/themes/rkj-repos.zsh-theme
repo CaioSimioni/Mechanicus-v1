@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/themes/rkj-repos.zsh-theme

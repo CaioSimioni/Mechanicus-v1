@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/lib/prompt_info_functions.zsh

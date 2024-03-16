@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/git-auto-fetch/git-auto-fetch.plugin.zsh

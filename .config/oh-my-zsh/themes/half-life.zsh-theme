@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/themes/half-life.zsh-theme

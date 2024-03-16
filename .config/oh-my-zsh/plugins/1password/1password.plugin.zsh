@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/1password/1password.plugin.zsh

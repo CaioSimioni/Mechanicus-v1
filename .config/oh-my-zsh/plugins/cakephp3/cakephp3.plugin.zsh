@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/cakephp3/cakephp3.plugin.zsh

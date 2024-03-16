@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/fancy-ctrl-z/fancy-ctrl-z.plugin.zsh

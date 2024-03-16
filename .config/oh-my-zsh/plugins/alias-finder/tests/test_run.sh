@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/alias-finder/tests/test_run.sh

@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/knife_ssh/knife_ssh.plugin.zsh

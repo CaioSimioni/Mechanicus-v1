@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/mongo-atlas/mongo-atlas.plugin.zsh

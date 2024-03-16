@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/.github/PULL_REQUEST_TEMPLATE.md

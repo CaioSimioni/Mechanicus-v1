@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/docker-machine/docker-machine.plugin.zsh

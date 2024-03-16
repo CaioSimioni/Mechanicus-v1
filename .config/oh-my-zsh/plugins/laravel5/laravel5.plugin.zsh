@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/laravel5/laravel5.plugin.zsh

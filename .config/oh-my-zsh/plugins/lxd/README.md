@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/lxd/README.md

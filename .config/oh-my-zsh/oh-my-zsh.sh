@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/oh-my-zsh.sh

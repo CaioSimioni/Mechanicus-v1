@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/ember-cli/ember-cli.plugin.zsh

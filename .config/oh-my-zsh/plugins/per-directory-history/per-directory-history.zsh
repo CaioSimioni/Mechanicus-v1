@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/per-directory-history/per-directory-history.zsh

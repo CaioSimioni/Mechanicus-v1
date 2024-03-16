@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/emotty/emotty_stellar_set.zsh

@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/plugins/yii2/yii2.plugin.zsh

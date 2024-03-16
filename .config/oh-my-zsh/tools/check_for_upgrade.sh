@@ -1,0 +1,1 @@
+/home/caiosimioni/.config/oh-my-zsh/tools/check_for_upgrade.sh
