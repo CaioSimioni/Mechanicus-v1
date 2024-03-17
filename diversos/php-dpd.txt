@@ -1,0 +1,7 @@
+
+re2c 
+php-gd
+pg-config
+postgresql-libs
+
+
