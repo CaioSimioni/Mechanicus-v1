@@ -111,10 +111,10 @@ alias upt="sudo pacman -Syu"
 alias in="sudo pacman -Sy"
 
 # zsh
-alias zshcfg="nvim ~/dotfiles/.zshrc"
+alias zshcfg="nvim ~/projetos/dotfiles/.zshrc"
 
 # open my dotfiles
-alias mydots="cd ~/dotfiles"
+alias mydots="cd ~/projetos/dotfiles"
 
 
 # Add asdf version management
