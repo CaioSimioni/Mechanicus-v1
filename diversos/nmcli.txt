@@ -1,0 +1,15 @@
+
+# Como conectar na internet wifi com o nmcli
+
+"listar a placa de rede do computador"
+nmcli d
+
+"Ligar a opção de wifi da placa"
+nmcli r wifi on
+
+"Listar as redes disponíveis"
+nmcli d wifi list
+
+"Conectar na rede"
+nmcli d wifi connect <nome-rede> password <senha-rede>
+
