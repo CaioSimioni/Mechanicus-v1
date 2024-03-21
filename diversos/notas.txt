@@ -1,0 +1,5 @@
+
+
+Comando para fazer logout no hyprland
+$ hyprctl dispatch exit
+
