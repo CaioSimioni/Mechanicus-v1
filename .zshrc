@@ -116,6 +116,8 @@ alias zshcfg="nvim ~/projetos/dotfiles/.zshrc"
 # open my dotfiles
 alias mydots="cd ~/projetos/dotfiles"
 
+# hyprcommands
+alias hyprlogout="hyprctl dispatch exit"
 
 # Add asdf version management
 . /opt/asdf-vm/asdf.sh
