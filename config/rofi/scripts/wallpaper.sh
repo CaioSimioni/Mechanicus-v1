@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wall_dir="${HOME}/.config/hypr/wallpapers"
+wall_dir="${HOME}/Imagens/wallpapers"
 cache_dir="${HOME}/.cache/mywallpaper"
 
 # Convert images in directory and save to cache dir
@@ -19,11 +19,11 @@ wall_select=$(find "${wall_dir}"  -maxdepth 1  -type f \( -iname "*.jpg" -o -ina
 # Set the wallpaper
 [[ -n "$wall_select" ]] || exit 1
 
-cp ${wall_dir}/${wall_select} ${cache_dir}/wall.png
+monitor=`hyprctl monitors | grep Monitor | awk '{print $2}'`
 
-pkill hyprpaper
-
-hyprpaper
+hyprctl hyprpaper unload all
+hyprctl hyprpaper preload ${wall_dir}/${wall_select}
+hyprctl hyprpaper wallpaper "$monitor, $wall_dir/$wall_select"
 
 exit 0
 
