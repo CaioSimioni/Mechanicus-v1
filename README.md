@@ -3,6 +3,23 @@
 
 Eu possuo um notebook Dual Boot: Windows + ArchLinux
 
+## Arch Linux configs
+
+OS: Arch Linux
+Kernel: 6.8.1-arch1-1
+AUR mng: yay & pacseek
+Audio: Pipewire
+Desktop: Hyprland
+Wallpaper: Hyprpaper
+Terminal: Kitty
+Launcher: Rofi - @lbonn
+Notifications: dunst
+Bar: Waybar
+Editor: NeoVim - NvChad
+Browser: Firefox
+File: Thunar
+Theme: Tokyonight
+Icons: Papirus-Darki
 
 ## Preparando o sistema
 
