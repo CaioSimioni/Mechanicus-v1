@@ -9,14 +9,16 @@ OS: Arch Linux
 Kernel: 6.8.1-arch1-1
 AUR mng: yay & pacseek
 Audio: Pipewire
+Firewall: ufw
 Desktop: Hyprland
 Wallpaper: Hyprpaper
 Terminal: Kitty
+Shell: zsh - oh-my-zsh
 Launcher: Rofi - @lbonn
 Notifications: dunst
 Bar: Waybar
 Editor: NeoVim - NvChad
-Browser: Firefox
+Browser: Firefox & Tor
 File: Thunar
 Theme: Tokyonight
 Icons: Papirus-Darki
