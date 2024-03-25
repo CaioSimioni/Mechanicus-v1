@@ -122,3 +122,4 @@ alias hyprlogout="hyprctl dispatch exit"
 # Add asdf version management
 . /opt/asdf-vm/asdf.sh
 
+export PATH=/home/caiosimioni/.local/bin:/home/caiosimioni/.asdf/shims:/opt/asdf-vm/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl

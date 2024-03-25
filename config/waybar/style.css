@@ -27,7 +27,11 @@ window#waybar {
 
 #workspaces button {
     background: #11111b;
-    color: #b4befe;
+    color: #151026;
+}
+
+#workspaces button active {
+    color: #cdd6f4;
 }
 
 #backlight,

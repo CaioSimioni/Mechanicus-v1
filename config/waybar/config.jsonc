@@ -80,7 +80,7 @@
         "format-connected": "<span color='#b4befe'>󰂯</span>{num_connections}",
         "tooltip-format": "{device_enumerate}",
         "tooltip-format-enumerate-connected": "{device_alias}   {device_address}",
-        "on-click": "blueman"
+        "on-click": "overskride"
     },
     "network": {
         "interface": "wlan0",
@@ -88,7 +88,8 @@
         "format-wifi": "<span color='#b4befe'> </span>",
         "format-ethernet": "{ipaddr}/{cidr} ",
         "format-disconnected": "<span color='#b4befe'>󰖪 </span>No Network",
-        "tooltip-format": "{essid}"
+        "tooltip-format": "{essid}",
+        "on-click": ""
     },
     "battery": {
         "states": {
