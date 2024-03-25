@@ -121,3 +121,4 @@ alias hyprlogout="hyprctl dispatch exit"
 
 # Add asdf version management
 . /opt/asdf-vm/asdf.sh
+
