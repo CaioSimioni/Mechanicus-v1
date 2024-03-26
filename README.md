@@ -5,23 +5,27 @@ Eu possuo um notebook Dual Boot: Windows + ArchLinux
 
 ## Arch Linux configs
 
-OS: Arch Linux
-Kernel: 6.8.1-arch1-1
-AUR mng: yay & pacseek
-Audio: Pipewire
-Firewall: ufw
-Desktop: Hyprland
-Wallpaper: Hyprpaper
-Terminal: Kitty
-Shell: zsh - oh-my-zsh
-Launcher: Rofi - @lbonn
-Notifications: dunst
-Bar: Waybar
-Editor: NeoVim - NvChad
-Browser: Firefox & Tor
-File: Thunar
-Theme: Tokyonight
-Icons: Papirus-Darki
+<p>
+OS: Arch Linux<br>
+Kernel: 6.8.1-arch1-1<br>
+AUR mng: yay & pacseek<br>
+Audio: Pipewire<br>
+Firewall: ufw<br>
+Desktop: Hyprland<br>
+Wallpaper: Hyprpaper<br>
+Terminal: Kitty<br>
+Shell: zsh - oh-my-zsh<br>
+Launcher: Rofi - @lbonn<br>
+Notifications: dunst<br>
+Bar: Waybar<br>
+Editor: NeoVim - NvChad<br>
+Browser: Firefox & Tor<br>
+File: Thunar<br>
+Theme: Tokyonight<br>
+Icons: Papirus-Darki<br>
+Grub-theme: Vimix<br>
+SDDM-theme: archlinux<br>
+</p>
 
 ## Preparando o sistema
 
