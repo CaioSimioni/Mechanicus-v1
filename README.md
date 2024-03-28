@@ -27,6 +27,12 @@ Grub-theme: Vimix<br>
 SDDM-theme: archlinux<br>
 </p>
 
+## Jogos
+
+Minecraft: [aur PrismLauncher](https://aur.archlinux.org/packages/prismlauncher)<br> 
+Steam: [multilib Steam](https://wiki.archlinux.org/title/Steam_(Portugu%C3%AAs))<br>
+Osu!: [osu-wine](https://osu.ppy.sh/community/forums/topics/1248084?n=1)
+
 ## Preparando o sistema
 
 Entrar nas configurações de disco do Win10 e deixar separado a parte de disco que usaremos para o Arch Linux.
