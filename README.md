@@ -9,12 +9,11 @@
 
 ## Preview
 
+![Preview da tela principal.](https://github.com/CaioSimioni/dotfiles/blob/main/diversos/preview.png)
 <div id="preview" />
-![Preview da tela principal.](/diversos/preview.png)
-
+  
 ## Arch Linux configs
 
-<div id="configs" />
 <p>
 OS: Arch Linux<br>
 Kernel: 6.8.1-arch1-1<br>
@@ -36,7 +35,8 @@ Icons: Papirus-Darki<br>
 Grub-theme: Vimix<br>
 SDDM-theme: archlinux<br>
 </p>
-
+<div id="configs" />
+  
 ## Jogos
 
 <div id="games" />
