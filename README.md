@@ -4,14 +4,18 @@
 1. [Preview](#preview)
 2. [Arch Linux - Configs](#configs)
 3. [Jogos](#games)
-4. [Preparando o sistema Dual Boot](#install)
-5. [Primeiro contato com o Arch Linux e o Hyprland](#first-boot)
+4. [Preparando o sistema Dual Boot](#prepare)
+5. [Intalação do Arch Linux - archinstall](#install)
+6. [Primeiro contato com o Arch Linux e o Hyprland](#first-boot)
+
+<div id="preview" />
 
 ## Preview
 
 ![Preview da tela principal.](https://github.com/CaioSimioni/dotfiles/blob/main/diversos/preview.png)
-<div id="preview" />
-  
+
+<div id="configs" />
+
 ## Arch Linux configs
 
 <p>
@@ -35,18 +39,19 @@ Icons: Papirus-Darki<br>
 Grub-theme: Vimix<br>
 SDDM-theme: archlinux<br>
 </p>
-<div id="configs" />
-  
-## Jogos
 
 <div id="games" />
+
+## Jogos
+
 Minecraft: [aur PrismLauncher](https://aur.archlinux.org/packages/prismlauncher)<br> 
 Steam: [multilib Steam](https://wiki.archlinux.org/title/Steam_(Portugu%C3%AAs))<br>
 Osu!: [osu-wine](https://osu.ppy.sh/community/forums/topics/1248084?n=1)
 
+<div id="prepare" />
+
 ## Preparando o sistema
 
-<div id="install" />
 Entrar nas configurações de disco do Win10 e deixar separado a parte de disco que usaremos para o Arch Linux.
 No meu caso, tenho 1T de memória, usaria 256G para o Arch.
 Deixa as partições mais ou menos assim:
@@ -65,7 +70,9 @@ Depois disso, precisamos criar um pendrive botável. E inicar o sistema por ele.
 
 Já no Fakeroot do Pendrive com a imagem da Iso do Arch Linux vamos para os coamndos.
 
-## Intalação do sistema
+<div id="install">
+
+## Intalação do Arch Linux - archinstall
 
 Primeiro de tudo, vamos nos certificar de estarmos usando o layout de teclas do teclado correto, no meu caso eu digito o comando: `loadkeys br-abnt2`
 
@@ -105,9 +112,10 @@ Pacotes adicionais: vim nano sudo git curl wget os-prober neofetch
 
 Agora só clicar em instalar.  (Ufa!)
 
+<div id="first-boot" />
+
 ## Primeiro contato com o Arch Linux e o Hyprland
 
-<div id="first-boot" />
 Quando entrar no sistema pela primeira vez, vamos nos conectar na Internet usando "nmcli" com `sudo nmcli dev wifi connect network-ssid password "network-password"`
 
 Atualizar o sistema: `sudo pacman -Syu`
