@@ -1,5 +1,5 @@
 
-# Meus Dotfiles
+# Meus Dotfiles Arch Linux em Dual Boot
 
 1. [Preview](#preview)
 2. [Arch Linux - Configs](#configs)
