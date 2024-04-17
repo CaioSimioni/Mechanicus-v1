@@ -10,7 +10,7 @@
 
 <div id="preview" />
 
-## Preview
+## Mechanicus Preview
 
 ![Preview da tela principal.](https://github.com/CaioSimioni/dotfiles/blob/main/diversos/preview.png)
 
