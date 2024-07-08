@@ -2,8 +2,8 @@
 local M = {}
 
 M.ui = {
-  theme_toggle = {"material-darker"},
-  theme = "material-darker",
+  theme_toggle = {"tokyonight"},
+  theme = "tokyonight",
   transparency = true,
   -- hl_override = {
 	-- 	Comment = { italic = true },
