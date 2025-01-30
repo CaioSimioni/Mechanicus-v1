@@ -12,7 +12,7 @@
 
 ## Mechanicus Preview
 
-![Preview da tela principal.](https://github.com/CaioSimioni/dotfiles/blob/main/diversos/preview.png)
+![Preview da tela principal.](https://github.com/CaioSimioni/Mechanicus-v1/blob/main/diversos/preview.png)
 
 <div id="configs" />
 
